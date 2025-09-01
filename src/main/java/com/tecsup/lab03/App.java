@@ -5,6 +5,6 @@ package com.tecsup.lab03;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hola desde sprint-1");
     }
 }
